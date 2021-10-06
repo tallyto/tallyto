@@ -4,7 +4,7 @@ const person = {
     name: 'Tállyto Rodrigues',
     age: 25,
     living: 'Curitiba - PR',
-    occupation: 'Back-end Sofware Developer'
+    occupation: 'Back-end Sofware Developer',
     languages: ['JavaScript', 'Python'],
     frameworks: ['express', 'nest', 'serverless'],
     databases: ['dynamodb', 'mongodb', 'postgresSQL'],
