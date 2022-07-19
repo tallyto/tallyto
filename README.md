@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otallyto&label=Profile%20views&color=0e75b6&style=flat" alt="otallyto" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tallyscript" target="blank"><img src="https://img.shields.io/twitter/follow/tallyscript?logo=twitter&style=for-the-badge" alt="tallyscript" /></a> </p>
+<p align="left"> <a href="https://twitter.com/otallyto" target="blank"><img src="https://img.shields.io/twitter/follow/otallyto?logo=twitter&style=for-the-badge" alt="otallyto" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, clean code and tdd**
+- 🌱 I’m currently learning **Java, clean code and tdd**
 
 - 👨‍💻 All of my projects are available at [https://www.tallyto.dev/](https://www.tallyto.dev/)
 
