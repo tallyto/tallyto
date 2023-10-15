@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Springboot and Serverless**
 
-- 🤝 I’m looking for help with **Java and JavaScript**
-
 - 👨‍💻 All of my projects are available at [https://www.tallyto.dev/](https://www.tallyto.dev/)
 
 - 📝 I regularly write articles on [https://dev.to/tallyto](https://dev.to/tallyto)
