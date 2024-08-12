@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Microservices**
 
-- 🌱 I’m currently learning **Software Architecture**
+- 🌱 I’m currently learning **Software Architecture and GO Lang**
 
 - 👨‍💻 All of my projects are available at [https://www.tallyto.dev/](https://www.tallyto.dev/)
 
