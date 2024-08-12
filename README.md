@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/otallyto" target="blank"><img src="https://img.shields.io/twitter/follow/otallyto?logo=twitter&style=for-the-badge" alt="otallyto" /></a> </p>
 
-- 🔭 I’m currently working on **RPA and Bots**
+- 🔭 I’m currently working on **Microservices**
 
-- 🌱 I’m currently learning **Springboot and Serverless**
+- 🌱 I’m currently learning **Software Architecture**
 
 - 👨‍💻 All of my projects are available at [https://www.tallyto.dev/](https://www.tallyto.dev/)
 
-- 📝 I regularly write articles on [https://dev.to/tallyto](https://dev.to/tallyto)
+- 📝 I sometimes write articles on [https://dev.to/tallyto](https://dev.to/tallyto)
 
-- 💬 Ask me about **Architecture**
+- 💬 Ask me about **Serverless**
 
 - 📫 How to reach me **tallyto.dev@outlook.com**
 
